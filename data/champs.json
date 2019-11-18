@@ -1,0 +1,44 @@
+[
+    {
+          "year": "2019",
+        "team": "Toronto Raptors",
+        "mvp": "Giannis Antetokounmpo",
+        "logo":"static/img/logos/2019.jpg",
+        "history":"static/img/logos/2019.jpgRAPPPPP",
+        "url": "raptors"
+    },
+    {
+        "year": "2018",
+        "team": "Golden State Warriors",
+        "mvp": "James Harden",
+        "logo":"static/img/logos/2018.jpg",
+        "history":"static/img/logos/2019.jpgWARRRR",
+         "url": "warriors"
+    },
+    {
+        "year": "2017",
+        "team": "Golden State Warriors",
+        "mvp": "Russell Westbrook",
+        "logo":"static/img/logos/2017.jpeg",
+        "history":"static/img/logos/2019.jpgWARRRRRR",
+         "url": "warriors"
+    },
+    {
+        "year": "2016",
+        "team": "Cleveland Cavallers",
+        "mvp": "Stephen Curry",
+        "logo":"static/img/logos/2016.jpg",
+        "history":"static/img/logos/2019.jpgCAVVVSSS",
+         "url": "cavs"
+    },
+    {
+         "year": "2015",
+        "team": "Golden State Warriors",
+        "mvp": "Stephen Curry",
+        "logo": "static/img/logos/2015.png",
+        "history":"static/img/logos/2019.jpgWARRRR",
+         "url": "warriors"
+    }
+]
+
+     
